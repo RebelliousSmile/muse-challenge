@@ -2,6 +2,8 @@
 
 Ce dépôt sert de point de liaison entre les agents qui travaillent sur les dépôts `hermes-agent` et `suddenly-ai-hub`.
 
+> **Portée** : ce protocole s'applique uniquement à la coordination et à l'exécution des missions dans le cadre de `muse-challenge`. Les autres projets peuvent définir des règles différentes.
+
 ## Objectif
 
 - transmettre des rapports courts et vérifiables
